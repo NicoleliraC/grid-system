@@ -1,0 +1,142 @@
+*{
+	margin: 10px;
+}
+.primera{
+	background-color: #313131;
+}
+.logotipo{
+	margin-left: 30px;
+	margin-top: 15px;
+}
+nav {
+	font-size: 15px;
+	text-align: center;
+	margin-top: 5px;
+}
+nav a{
+	margin:3px;
+	text-decoration: none;
+	color:white;
+	font-family: Arial;
+}
+.link{
+	margin-left: 23%;
+	margin-top: -10%;
+}
+.segunda{
+	height: 300px;
+	background-color: #BDBDBD;
+	padding:10px;
+}
+.titulo{
+	display: inline-block;
+	font-family: Arial;
+	
+}
+.uno{
+	font-size: 17px;
+	color: #313131;
+	margin-top: 10px;
+	margin-left: 2px;
+}
+.dos{
+	color: blue;
+	font-size: 13px;
+}
+
+.imagen{
+	max-width: 100%;
+	border:3px solid white;
+	background-color: white;
+	margin-top: 5px;
+
+}
+.name{
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+}
+.tercera{
+	height: 950px;
+	padding: 30px;
+	border:1px solid #BDBDBD;
+	padding-left: 9px;
+}
+
+
+img{
+	max-width: 100%
+}
+.nueve{
+	font-family: Arial;
+	color:blue;
+	font-size: 10px;
+	text-align: center;
+}
+.thumbs{
+	border:1px solid #C8BFBF;
+	background-color: white;
+	margin-top: 3px;
+	padding:3px;
+}
+.tercera .perfil{
+	width: 19%;
+}
+	
+.quinto{
+	color: blue;
+}
+.icono-titulo{
+	font-family: Arial;
+	font-size: 15px;
+	color:#807777;
+}
+
+.hr{
+	width: 10%;
+	height: 5%;
+	background-color: black;
+	padding:50px;
+}
+h4 {
+	margin-top: 20px;
+}
+.iconos{
+	width: 15px;
+	height: 15px;
+	color:blue;
+	margin-top:10px;
+}
+.negro{
+	margin-top: 10px;
+	color: black;
+}
+.azul{
+	color: blue;
+}
+.ultima{
+	height: 180px;
+	background-color: #736C6C;
+	padding:10px;
+}
+.blanco{
+	color:white;
+	font-size: 15px;
+	font-family: Arial;
+	margin-top: 25px;
+	padding: 5px;
+}
+.final{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 15px;
+	font-family: Arial;
+	color: #C8BFBF;
+}
+.finality{
+	text-align: center;
+	font-size: 12px;
+	font-family: Arial;
+	color:#C8BFBF;
+	margin-top: 10px;
+}
